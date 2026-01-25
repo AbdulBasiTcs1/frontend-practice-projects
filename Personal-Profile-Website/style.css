@@ -36,4 +36,26 @@
 }
 body{
     background-color: #f6f6f3;
+    margin: 15px;
+}
+
+/* Main to be edited from here*/
+
+#main {
+    max-width: 1000%;
+}
+.heading{
+    text-align: center;
+    background-color: #562f23;
+    height: 50px;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 25px;
+}
+.heading:hover {
+    color: white;
+}
+.li:hover {
+    color: white;
+    background-color: #562f23;
 }
