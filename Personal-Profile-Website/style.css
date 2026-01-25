@@ -59,3 +59,28 @@ body{
     color: white;
     background-color: #562f23;
 }
+.cli {
+    text-decoration: none;
+
+}
+.cli:hover {
+    size: 1.1em;
+}
+footer {
+    background-color: #191819;
+
+}
+footer p {
+    text-align: center;
+    color: white;
+}
+.dark-mode {
+    background-color: #191819;
+    color: white;
+}
+.dark-mode #navbar {
+    background-color: #562f23;
+}
+.dark-mode footer {
+    background-color: #0d0d0d;
+}
