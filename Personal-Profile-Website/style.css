@@ -15,8 +15,24 @@
     text-align: center;
 }
 #navbar {
+    background-color: #562f23;
     text-align: center;
     display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 10px 0;
+}
+#navbar a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+#navbar a:hover {
+    color: #f6f6f3;
+}
+#navbar {
+
 }
 body{
     background-color: #f6f6f3;
